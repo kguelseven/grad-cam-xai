@@ -5,6 +5,7 @@ Single-file PyTorch example for learning Grad-CAM on ImageNet-pretrained models 
 ## Why ResNet-50 first
 
 The default model is `resnet50` because Grad-CAM is easier to understand on a mostly linear CNN. `googlenet` is also supported so you can compare how inception branches change the experience.
+Dive into the The Basics of ResNet50 here: https://wandb.ai/mostafaibrahim17/ml-articles/reports/The-Basics-of-ResNet50---Vmlldzo2NDkwNDE2
 
 ## Environment
 
